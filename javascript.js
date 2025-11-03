@@ -1,0 +1,1 @@
+let answer = prompt("Rock, paper, scissors")
